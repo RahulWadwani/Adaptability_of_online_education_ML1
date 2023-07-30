@@ -20,4 +20,5 @@ Machine Learning project
 </ul>
 <h2> Insights After Visualization </h2>
 <p>financial, class duration and device columns are right-skewed, and the age column is not evenly distributed rest in univariate analysis
-whereas in bivariate analyses ages below 15 years go to non-government schools age belonging to range 21-25 was an IT student. mostly all the group students belonged to the middle-class, age group between 6-10,16-20,26-30 had low adaptability on online education, Rich people had more adaptability than middle class or poor-class people, Being an IT Student does not have any effect on adaptability. Adaptabilty becomes very low when load_shedding is low and has a location </p>
+whereas in bivariate analyses ages below 15 years go to non-government schools age belonging to range 21-25 was an IT student. 
+  mostly all the group students belonged to the middle-class, age group between 6-10,16-20,26-30 had low adaptability on online education, Rich people had more adaptability than middle class or poor-class people, Being an IT Student does not have any effect on adaptability. Adaptabilty becomes very low when load_shedding is low and has a location </p>
